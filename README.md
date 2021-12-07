@@ -1,7 +1,7 @@
    
 (post) - Anthroposcene  
 (non)  - human agency   
-Architect teaching @Bartlett UCL. 
-RC1,19,20
+Architect, software dev, agent of the Anthroposcene
+Scientific researcher @ faculty of Architecture KUL
 <br>
 --> https://putteneersjoris.xyz
