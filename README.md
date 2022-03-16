@@ -1,7 +1,4 @@
    
-(post) - Anthroposcene  
-(non)  - human agency   
-Architect, software dev, agent of the Anthroposcene
-Scientific researcher @ faculty of Architecture KUL
+esoteric architect, software dev, agent of the Anthroposcene
 <br>
 --> https://putteneersjoris.xyz
