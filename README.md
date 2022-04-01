@@ -1,4 +1,4 @@
    
-esoteric architect, software dev, agent of the Anthroposcene
+esoteric architect
 <br>
 --> https://putteneersjoris.xyz
