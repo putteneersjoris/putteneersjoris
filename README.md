@@ -1,8 +1,9 @@
    
 command line architect
+<br><br>
+Python, C++, javascript, LaTeX
 <br>
-Python, C++, javascript, 
+Houdini, blender, CAD
 <br>
-Houdini, blender
-<br>
+opensource & Linux enthousiast
 --> https://putteneersjoris.xyz
