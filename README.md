@@ -6,4 +6,5 @@ Python, C++, javascript, LaTeX
 Houdini, blender, CAD
 <br>
 opensource & Linux enthousiast
+<br>
 --> https://putteneersjoris.xyz
